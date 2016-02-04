@@ -1,5 +1,7 @@
 Overview
 =========
+
+[![Join the chat at https://gitter.im/devender-yadav/Kundera](https://badges.gitter.im/devender-yadav/Kundera.svg)](https://gitter.im/devender-yadav/Kundera?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 The idea behind Kundera is to make working with NoSQL Databases drop-dead simple and fun. Kundera is being developed with following objectives:
 
 *  To make working with NoSQL as simple as working with SQL
